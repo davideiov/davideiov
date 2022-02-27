@@ -1,16 +1,32 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Cloud Computing at University of Salerno
+
+- 📫 How to reach me: **davideiovino37@gmail.com**
+
+<h3 align="left">Github stats:</h3>
+<table border="none">
+  <td width="50%" display="inline" border="none">
+    <div align="left" width="50%" display="inline">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideiov&layout=compact&theme=github_dark" alt="Fav Languages" /> 
+    </div>
+  </td>
+  <td border="none">
+    <div align="left" width="25%">
+      <img src="https://github-readme-stats.vercel.app/api?username=davideiov&hide=issues&theme=github_dark&show_icons=true" alt="My activities"/>
+    </div>
+  </td>
+</table>
+
 <!--
 **davideiov/davideiov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
