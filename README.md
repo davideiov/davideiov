@@ -4,16 +4,16 @@
 
 - 📫 How to reach me: **davideiovino37@gmail.com**
 
-<h3 align="left">Github stats:</h3>
+<h3 align="center">Github stats:</h3>
 <table border="none">
   <td width="50%" display="inline" border="none">
     <div align="left" width="50%" display="inline">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideiov&layout=compact&theme=github_dark" alt="Fav Languages" /> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideiov&layout=compact&theme=github_dark" alt="Fav languages" /> 
     </div>
   </td>
   <td border="none">
-    <div align="left" width="25%">
-      <img src="https://github-readme-stats.vercel.app/api?username=davideiov&hide=issues&theme=github_dark&show_icons=true" alt="My activities"/>
+    <div align="left" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=davideiov&hide=issues&theme=radical&show_icons=true" alt="My activities"/>
     </div>
   </td>
 </table>
