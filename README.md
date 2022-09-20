@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Cloud Computing at University of Salerno
+- 🌱 I’m currently learning Cloud Computing at University of Salerno.
 
-- 📫 How to reach me: **davideiovino37@gmail.com**
+- 📫 How to reach me: **davideiovino37@gmail.com**.
+
+- ⭐ Certified in: **Azure AZ-900, Azure AI-900 & Azure DP-900** . 
 
 <h3 align="left">Github stats:</h3>
 <table border="none">
