@@ -1,34 +1,19 @@
-### Hi there 👋
+# 💫 About Me:
+🌱 I’m currently learning Cloud Computing at University of Salerno.<br>📫 How to reach me: davideiovino37@gmail.com.<br>⭐ Certified in: Azure AZ-900, Azure AI-900 & Azure DP-900 .
 
-- 🌱 I’m currently learning Cloud Computing at University of Salerno.
 
-- 📫 How to reach me: **davideiovino37@gmail.com**.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_davideiovino__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davide-iovino-545796268) 
 
-- ⭐ Certified in: **Azure AZ-900, Azure AI-900 & Azure DP-900** . 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=davideiov&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=davideiov&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davideiov&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Github stats:</h3>
-<table border="none">
-  <td width="50%" display="inline" border="none" align="center">
-    <div align="left" width="50%" display="inline">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideiov&layout=compact&theme=github_dark" alt="Fav languages" /> 
-    </div>
-  </td>
-  <td border="none" width="50%" align="center">
-    <div align="left" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=davideiov&hide=issues&theme=radical&show_icons=true" alt="My activities"/>
-    </div>
-  </td>
-</table>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<!--
-**davideiov/davideiov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=davideiov&icon=5&color=4)](https://visitcount.itsvg.in)
