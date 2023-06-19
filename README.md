@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cloud Computing at University of Salerno.<br>📫 How to reach me: davideiovino37@gmail.com.<br>⭐ Certified in: Azure AZ-900, Azure AI-900 & Azure DP-900 .
+🌱 I’m currently learning Cloud Computing at University of Salerno.<br>📫 How to reach me: davideiovino37@gmail.com.<br>⭐ Certified in: Oracle Cloud Infrastracture Foundations Associate, Azure AZ-900, Azure AI-900 & Azure DP-900 .
 
 
 ## 🌐 Socials:
